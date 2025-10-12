@@ -1,0 +1,24 @@
+{
+  "deposits": [
+    {
+      "nodeId": "zovolt",
+      "amountSBRIT": "1000000",
+      "amountSSC": "0",
+      "address": "C12345..TODO",
+      "verifications": [
+        {
+          "type": "FOUNDATION",
+          "link": "https://streembit-foundation.org/zovolt",
+          "timestamp": "1234567891011",
+          "signature": "abcde...TODO"
+        },
+        {
+          "type": "CUSTODIAN",
+          "link": "https://fortresstrust.com/zovolt",
+          "timestamp": "1234567891011",
+          "signature": "abcde...TODO"
+        }
+      ]
+    }
+  ]
+}
