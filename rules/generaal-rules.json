@@ -1,0 +1,6 @@
+{
+  "creator_deposit_asset": "SBRIT",
+  "min_creator_deposit": "1000000",
+  "validator_deposit_asset": "SBRIT",
+  "min_validator_deposit": "10000"
+}
