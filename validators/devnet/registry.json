@@ -2,11 +2,19 @@
   "validators": [
     {
       "nodeId": "validator-0001",
-      "publicKey": "020c011a1f3d98a987ebacc55089737a5b0586fc846cba51ddaabc267ef82b03bc"
+      "publicKey": "020c011a1f3d98a987ebacc55089737a5b0586fc846cba51ddaabc267ef82b03bc",
+      "location": {
+        "type": "consortium",
+        "uri": "zovolt"      
+      }
     },
     {
       "nodeId": "validator-0002",
-      "publicKey": "02828c8766783e7da65eed682c495b50ed2eb104e5a1fe6543186e45699336c27e"
+      "publicKey": "02828c8766783e7da65eed682c495b50ed2eb104e5a1fe6543186e45699336c27e",
+      "location": {
+        "type": "consortium",
+        "uri": "zovolt"
+      }
     }
   ]
 }
