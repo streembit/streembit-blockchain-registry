@@ -14,7 +14,7 @@ Published at https://sbrit.org/open-calls
 
 **Application window**
 - Opens 2026-11-10 00:00 UTC
-- Closes 2026-11-24 00:00 UTC
+- Closes 2026-12-01 00:00 UTC
 
 **How to apply**
 
@@ -61,7 +61,7 @@ For each class, every qualifying applicant is admitted up to the number of place
 
 Used only if qualifying applicants in a class exceed its places. The seed is the hash of the first block on the public test network produced after the window closes. Method: for each qualifying applicant in the class, compute SHA-256 over the raw bytes of the seed block hash followed by the raw bytes of the applicant's compressed signing public key (33 bytes). For an Accountable Node, this is its block-signing key. Order the applicants by the resulting hash, read as an unsigned big-endian number, lowest first. The first applicants up to the number of places are admitted; the rest form the waiting list in that order. Anyone can reproduce the draw from the seed and the registrations on the test network. The Foundation has no discretion between qualifying applicants.
 
-**Selection recorded by** 2026-12-01: applications and the draw seed on the public test network. The admitted participants are registered on the Streembit chain in the bootstrap sequence at genesis.
+**Selection recorded by** 2026-12-05: applications and the draw seed on the public test network. The admitted participants are registered on the Streembit chain in the bootstrap sequence at genesis.
 
 ## Text of the call
 
