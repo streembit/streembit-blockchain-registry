@@ -1,0 +1,15 @@
+{
+  "name": "devnet-1",
+  "network": "devnet",
+  "chainId": 1337,
+  "genesisTimestamp": 1795778846000,
+  "policy": {
+    "accountableNode": { "nodeId": "node1", "publicKey": "02691814903c8c99024df7dd8e0b863393a6085aead12f5801ab7dde258b70f6f2" },
+    "validators": [
+      { "validatorId": "validator1", "publicKey": "0386c6698405bf7072961c6a1ddd34340711928f4fb92452b25967d9cffa6654d4" },
+      { "validatorId": "validator2", "publicKey": "02c1ac4c2096fba66a31e925a7df53e3d31e51b98f3ea190f973cf23784bf51c15" }
+    ],
+    "approvalThreshold": 2,
+    "approvalSender": "validator1"
+  }
+}
